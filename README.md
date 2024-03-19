@@ -1,1 +1,1 @@
-This is Chat App throgh which we can send some data and another can recieve and respone it
+A simple chat application where multiple users can connect and exchange messages in real time
